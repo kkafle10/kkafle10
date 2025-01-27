@@ -13,7 +13,7 @@ Team Collaboration: Experienced in working on group projects and multitasking
 AI/ML Interest: Actively exploring AI/ML concepts and applications
 
 # 📂 Projects
-1. Program 1: Abstraction with YouTube Videos
+# Program 1: Abstraction with YouTube Videos
    
 Scenario: Developed a system to track YouTube videos and their comments for product awareness monitoring.
 
@@ -24,7 +24,7 @@ Displays video details along with comments
 
 Outcome: Built a scalable solution for managing video data and user comments.
 
-3. Program 2: Encapsulation with Online Ordering
+# Program 2: Encapsulation with Online Ordering
 
 Scenario: Created a system to manage online orders, calculate prices, and generate labels.
 
@@ -35,7 +35,7 @@ Includes USA and international shipping cost rules
 
 Outcome: Streamlined order management with encapsulated class design.
 
-4. Program 3: Inheritance with Event Planning
+# Program 3: Inheritance with Event Planning
 
 Scenario: Designed a program for event planning and marketing on social media.
 
@@ -46,7 +46,7 @@ Address management with reusable components
 
 Outcome: Used inheritance to simplify event management and avoid redundant code.
 
-5. Program 4: Polymorphism with Exercise Tracking
+# Program 4: Polymorphism with Exercise Tracking
 
 Scenario: Built a fitness app to track running, cycling, and swimming activities.
 
